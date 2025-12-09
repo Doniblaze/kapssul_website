@@ -13,22 +13,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kapssul – AI-Powered Healthcare Assistant | Automate Patient Follow-Up & Medication Adherence",
+  title: "Kapssul | Behavioral Health Intelligence Platform",
   description:
-    "Save 10+ hours/week with Kapssul's AI-powered patient monitoring system. Automated medication reminders, drug interaction detection, and real-time adherence tracking. Reduce readmissions by 40% and increase revenue by 30%.",
+    "Information for clinical practitioners and hospitals. Kapssul automates behavioral tracking and medication adherence monitoring to improve patient outcomes.",
   keywords: [
-    "healthcare automation software",
-    "AI patient monitoring",
-    "medication adherence tracking",
-    "drug interaction detection",
-    "post-discharge patient care",
-    "hospital readmission reduction",
-    "automated patient reminders",
-    "WhatsApp healthcare notifications",
-    "practitioner productivity tools",
-    "patient engagement platform",
-    "clinical workflow automation",
-    "healthcare AI assistant"
+    "behavioral health software",
+    "patient adherence tracking",
+    "clinical psychology tools",
+    "remote patient monitoring",
+    "mental health technology",
+    "practitioner dashboard"
   ],
   authors: [{ name: "Kapssul" }],
   creator: "Kapssul",
@@ -39,15 +33,15 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://kapssul.africa",
     siteName: "Kapssul",
-    title: "Kapssul – AI-Powered Healthcare Assistant for Practitioners",
+    title: "Kapssul - Precision Behavioral Health Intelligence",
     description:
-      "Automate patient follow-up, reduce readmissions by 40%, and increase revenue by 30%. Save 10+ hours/week with AI-powered medication tracking and early warning alerts.",
+      "Bridging the gap between clinical sessions and patient reality. Join the waitlist for the next generation of patient monitoring tools.",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Kapssul - AI Healthcare Assistant Dashboard"
+        alt: "Kapssul Clinical Dashboard"
       }
     ]
   },
@@ -55,18 +49,14 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@kapssul",
     creator: "@kapssul",
-    title: "Kapssul – AI Healthcare Assistant | Save 10+ Hours/Week",
+    title: "Kapssul | Behavioral Health Intelligence",
     description:
-      "Automated patient monitoring, medication adherence tracking, and drug interaction detection. Join 1,000+ practitioners transforming patient care.",
+      "Advanced patient monitoring for mental health professionals.",
     images: ["/twitter-card.png"]
   },
   alternates: {
     canonical: "https://kapssul.africa"
   },
-  verification: {
-    google: "your-google-verification-code",
-    // Add other verification codes as needed
-  }
 };
 
 
