@@ -96,7 +96,7 @@ const KapssulLanding = () => {
         <div className="max-w-6xl mx-auto text-center relative z-10">
           <div className="inline-flex items-center space-x-2 px-5 py-2.5 bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-full text-base text-amber-800 mb-10 font-semibold shadow-sm">
             <Activity className="w-5 h-5" />
-            <span>Early Access Now Open — Limited Spots Available</span>
+            <span>Coming Soon — Join the Waitlist</span>
           </div>
 
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-tight mb-8 leading-[1.1] text-slate-900">
@@ -129,8 +129,8 @@ const KapssulLanding = () => {
           </div>
 
           <div className="mt-16 flex flex-wrap items-center justify-center gap-8 text-slate-500">
-            <div className="flex items-center gap-2"><Shield className="w-5 h-5 text-[#8B4513]" /><span className="text-base font-medium">HIPAA Compliant</span></div>
-            <div className="flex items-center gap-2"><Lock className="w-5 h-5 text-[#8B4513]" /><span className="text-base font-medium">Bank-Level Security</span></div>
+            <div className="flex items-center gap-2"><Shield className="w-5 h-5 text-[#8B4513]" /><span className="text-base font-medium">Built for HIPAA Compliance</span></div>
+            <div className="flex items-center gap-2"><Lock className="w-5 h-5 text-[#8B4513]" /><span className="text-base font-medium">Security-First Design</span></div>
             <div className="flex items-center gap-2"><Zap className="w-5 h-5 text-[#8B4513]" /><span className="text-base font-medium">AI-Powered</span></div>
           </div>
         </div>
